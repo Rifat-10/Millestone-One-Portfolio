@@ -70,7 +70,7 @@ section{
     margin-right: 10px;
     padding: 20px;
     border-radius: 20px; 
-    background-color: blanchedalmond;
+    background-color: rgb(240, 217, 183);
 }
 
 .mission img{
@@ -82,7 +82,8 @@ section{
     margin-right: 10px;
     padding: 20px;
     border-radius: 20px;
-    background-color: rgb(157, 248, 184);
+    background-color: rgb(175, 203, 255);
+    
 }
 
 .vission img{
@@ -95,7 +96,7 @@ section{
     margin-right: 10px;
     padding: 20px;
     border-radius: 20px;
-    background-color: rgb(175, 203, 255);
+    background-color: rgb(124, 206, 149);
 }
 
 .goals img{
