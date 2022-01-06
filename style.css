@@ -1,0 +1,97 @@
+body{
+    margin: 0px;
+}
+
+
+.h-1{
+    margin-left: 10px;
+    font-family: 'Lora', serif;
+    font-size: 50px;
+}
+.color{
+    color: orangered;
+}
+
+.button-one{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: orangered;
+    color: white;
+    border-radius: 5px;
+}
+
+section{
+    display: flex;
+}
+.border-left{
+    margin-right: 10px;
+    border-left: 5px solid orangered;
+    border-radius: 5px;
+}
+.a1{
+    width: 50%;
+    padding-left: 10%;
+    margin-top: 20px;
+    
+}
+.a{
+    width: 50%;
+    padding-left: 10%;
+    
+}
+.a img{
+    width: 80%;
+    
+    padding-top: 05%;
+}
+.second-section{
+    display: flex;
+}
+.mission22{
+    width: 50%;
+    padding-left: 45%;
+}
+.flexible{
+    display:flex;
+}
+
+.margin{
+    margin:100px;
+}
+.mission{
+    width: 33%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    border-radius: 20px; 
+    background-color: blanchedalmond;
+}
+
+.mission img{
+    width: 40%;
+}
+.vission{
+    width: 33%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(157, 248, 184);
+}
+
+.vission img{
+    width: 40%;
+}
+
+.goals{
+    width: 33%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(175, 203, 255);
+}
+
+.goals img{
+    width: 40%;
+}
