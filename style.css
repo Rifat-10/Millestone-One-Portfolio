@@ -47,9 +47,15 @@ section{
 .second-section{
     display: flex;
 }
+.mission2{
+    width: 50%;
+    font-family: 'Lora', serif;
+    padding-left: 45%;
+}
 .mission22{
     width: 50%;
-    padding-left: 45%;
+    font-family: 'Lora', serif;
+    padding-left: 50%;
 }
 .flexible{
     display:flex;
@@ -120,7 +126,7 @@ section{
 .a2{
     width: 60%;
     
-    margin-top: 70px;
+    margin-top: 20px;
     
 }
 .a22{
@@ -152,15 +158,14 @@ section{
     border-radius: 5px;
 }
 
-.aaa{
+section{
     display: flex;
-    margin-top: 10%;
 }
 
 .a3{
     width: 50%;
     padding-left: 10%;
-    margin-top: 20px;
+    margin-top: 10%;
     
 }
 .a33{
@@ -173,5 +178,53 @@ section{
 
     margin-right: 50px;
     
+    padding-top: 25%;
+}
+
+.mission22{
+    width: 50%;
+    font-family: 'Lora', serif;
+    padding-left: 50%;
+}
+.me{
     padding-top: 05%;
+}
+
+.me3{
+    width: 50%;
+    padding-left: 30%;
+    margin-top: 20px;
+    padding-bottom: 10%;
+    
+}
+.me33{
+    width: 50%;
+    padding-left: 10%;
+    
+    
+}
+.me33 img{
+    width: 40%;
+    padding-left: 65%;
+    padding-top: 05%;
+
+}
+.click-me{
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: orangered;
+    color: white;
+    border-radius: 5px;
+    
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+footer h1{
+    font-family: 'Lora', serif;
 }
