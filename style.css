@@ -95,3 +95,83 @@ section{
 .goals img{
     width: 40%;
 }
+
+.h-2{
+    margin-left: 10px;
+    font-family: 'Lora', serif;
+    font-size: 50px;
+}
+.color{
+    color: orangered;
+}
+
+.button-one{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: orangered;
+    color: white;
+    border-radius: 5px;
+}
+
+section{
+    display: flex;
+}
+
+.a2{
+    width: 60%;
+    
+    margin-top: 70px;
+    
+}
+.a22{
+    width: 50%;
+    padding-left: 10%;
+    
+}
+.a22 img{
+    width: 80%;
+    
+    padding-top: 05%;
+}
+
+
+.h-3{
+    margin-left: 10px;
+    font-family: 'Lora', serif;
+    font-size: 50px;
+}
+.color{
+    color: orangered;
+}
+
+.button-one{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: orangered;
+    color: white;
+    border-radius: 5px;
+}
+
+.aaa{
+    display: flex;
+    margin-top: 10%;
+}
+
+.a3{
+    width: 50%;
+    padding-left: 10%;
+    margin-top: 20px;
+    
+}
+.a33{
+    width: 50%;
+    padding-left: 10%;
+    
+}
+.a33 img{
+    width: 80%;
+
+    margin-right: 50px;
+    
+    padding-top: 05%;
+}
