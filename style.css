@@ -209,6 +209,11 @@ section{
     padding-top: 05%;
 
 }
+.click{
+    align-items: center;
+    padding-left: 40%;
+    padding-top: 05%;
+}
 .click-me{
     text-align: center;
     text-decoration: none;
